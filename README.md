@@ -1,3 +1,5 @@
+Developed by me, assisted by Claude Code
+
 # Reservations API
 
 A RESTful API for managing service appointments, built with Clean Architecture and CQRS pattern.
